@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rigel
-- 👀 I’m interested in astronomy
-- 🌱 I’m currently learning C# and Python
+- 👀 Most interested in Astronomy and virtual gaming sessions
+- 🌱 Currently learning C# and Python
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My name is based on an actual Blue Supergiant Star
 
